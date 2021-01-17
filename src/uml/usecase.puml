@@ -1,0 +1,6 @@
+@startuml
+:User: --> (Use)
+"Administrator" as Admin
+"Use a website wich means \ncreating requests to API" as (Use)
+Admin --> (Controls the operation of the site and server \n filters the content contained in the database)
+@enduml
