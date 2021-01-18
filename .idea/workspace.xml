@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e24ef4-a44b-4a8e-b59d-a8262423f3f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/uml/png/administrator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uml/png/er.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uml/png/usecase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uml/png/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uml/png/eer.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/use cases/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/use cases/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uml/user.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/uml/user.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
