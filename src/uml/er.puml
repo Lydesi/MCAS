@@ -1,29 +1,34 @@
 @startuml
     entity Videos{
+      id
       source
       author
       length
     }
 
     entity Articles{
+      id
       source
       author
       body
     }
 
     entity Sources{
+      id
       type
       name
       url
     }
 
     entity Authors{
+      id
       firstName
       lastName
       specification
     }
 
     entity SourceTypes{
+      id
       name
     }
 
