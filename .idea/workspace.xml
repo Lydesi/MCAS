@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e24ef4-a44b-4a8e-b59d-a8262423f3f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/uml/er.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uml/user.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
