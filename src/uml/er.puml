@@ -1,0 +1,35 @@
+@startuml
+    entity Videos{
+      source
+      author
+      length
+    }
+
+    entity Articles{
+      source
+      author
+      body
+    }
+
+    entity Sources{
+      type
+      name
+      url
+    }
+
+    entity Authors{
+      firstName
+      lastName
+      specification
+    }
+
+    entity SourceTypes{
+      name
+    }
+
+    Videos --- Sources
+    Articles --- Sources
+    Articles --- Authors
+    Videos --- Authors
+    Sources --- SourceTypes
+@enduml
