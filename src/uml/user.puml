@@ -1,7 +1,8 @@
 @startuml
 User -> Website: Writes a request
 Website --> API: Creating request
-API -> API: Searches the database for matches
+API -> Database: Searches the database for matches
+Database -> API: Resolve request
 API --> Website: Gives found results
 Website -> User: Renders data and renders to the user
 @enduml

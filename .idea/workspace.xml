@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e24ef4-a44b-4a8e-b59d-a8262423f3f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/uml/er.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/uml/er.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uml/png/administrator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uml/png/er.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uml/png/usecase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uml/png/user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/use cases/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/use cases/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uml/user.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/uml/user.puml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../delivery-calculation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/uml/png" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
