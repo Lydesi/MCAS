@@ -1,0 +1,6 @@
+@startuml
+Admin-> API: Makes a request for content
+API --> Admin: Gives the contents of the database
+Admin-> API: Sorts the received data
+Admin-> API: Updates the database with the latest changes
+@enduml
